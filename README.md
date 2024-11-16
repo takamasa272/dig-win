@@ -1,4 +1,6 @@
 # dig-win
+dig command for Windows users!
+
 ## requirements
 - WSL2
   - which can use dig command
